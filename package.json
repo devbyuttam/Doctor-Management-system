@@ -1,0 +1,11 @@
+{
+  "name": "doctor-management-system-root",
+  "version": "1.0.0",
+  "description": "Smart Doctor & Patient Appointment Management System with 100 Doctor Registry Security",
+  "scripts": {
+    "demo:video": "start demo-video.html",
+    "seed": "npm --prefix backend run seed",
+    "backend:dev": "npm --prefix backend run dev",
+    "frontend:dev": "npm --prefix frontend run dev"
+  }
+}

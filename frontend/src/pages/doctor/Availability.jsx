@@ -1,0 +1,1 @@
+export default function Availability() { return <div className="p-8"><h1>Availability</h1></div>; }

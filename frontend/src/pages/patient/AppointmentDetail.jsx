@@ -1,0 +1,1 @@
+export default function AppointmentDetail() { return <div className="p-8"><h1>Appointment Detail</h1></div>; }

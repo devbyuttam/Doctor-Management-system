@@ -1,0 +1,1 @@
+export default function Patients() { return <div className="p-8"><h1>Patients</h1></div>; }

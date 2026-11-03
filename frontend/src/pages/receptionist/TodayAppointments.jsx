@@ -1,0 +1,1 @@
+export default function TodayAppointments() { return <div className="p-8"><h1>Today's Appointments</h1></div>; }

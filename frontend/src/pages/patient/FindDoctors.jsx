@@ -1,0 +1,1 @@
+export default function FindDoctors() { return <div className="p-8"><h1>Find Doctors</h1></div>; }

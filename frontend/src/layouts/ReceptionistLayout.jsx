@@ -1,0 +1,1 @@
+import { Outlet } from 'react-router-dom'; export default function ReceptionistLayout() { return <div><nav className="bg-purple-600 text-white p-4">Receptionist Portal</nav><div className="p-4"><Outlet /></div></div>; }

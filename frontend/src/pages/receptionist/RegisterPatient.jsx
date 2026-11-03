@@ -1,0 +1,1 @@
+export default function RegisterPatient() { return <div className="p-8"><h1>Register Patient</h1></div>; }

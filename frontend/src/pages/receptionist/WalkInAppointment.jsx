@@ -1,0 +1,1 @@
+export default function WalkInAppointment() { return <div className="p-8"><h1>Walk-in Appointment</h1></div>; }

@@ -1,0 +1,1 @@
+export default function AppointmentsChart() { return <div>Chart</div>; }

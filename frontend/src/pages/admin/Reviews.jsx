@@ -1,0 +1,1 @@
+export default function Reviews() { return <div className="p-8"><h1>Reviews</h1></div>; }

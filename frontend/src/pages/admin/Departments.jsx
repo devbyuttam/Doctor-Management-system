@@ -1,0 +1,1 @@
+export default function Departments() { return <div className="p-8"><h1>Departments</h1></div>; }

@@ -1,0 +1,1 @@
+export default function DoctorSearchFilters() { return <div>Filters</div>; }

@@ -1,0 +1,1 @@
+export default function SpecializationChart() { return <div>Chart</div>; }

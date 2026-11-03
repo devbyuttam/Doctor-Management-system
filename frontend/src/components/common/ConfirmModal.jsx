@@ -1,0 +1,1 @@
+export default function ConfirmModal({ isOpen }) { return isOpen ? <div>Modal</div> : null; }

@@ -1,0 +1,1 @@
+export default function QueueManagement() { return <div className="p-8"><h1>Queue Management</h1></div>; }

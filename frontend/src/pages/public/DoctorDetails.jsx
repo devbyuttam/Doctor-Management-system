@@ -1,0 +1,1 @@
+export default function DoctorDetails() { return <div className="p-8"><h1>Doctor Details</h1></div>; }

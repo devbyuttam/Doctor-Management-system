@@ -1,0 +1,1 @@
+export default function MedicalRecords() { return <div className="p-8"><h1>Medical Records</h1></div>; }

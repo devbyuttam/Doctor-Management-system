@@ -1,0 +1,1 @@
+export default function AppointmentStatusBadge() { return <div>Badge</div>; }
